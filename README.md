@@ -1,7 +1,7 @@
 This code was written to produce the results reported in the paper published here:
-(waiting for publication)
+https://doi.org/10.1016/j.jechem.2025.03.031
 
-Author:
+Lead author:
 Qi Wang
 
 Istituto Italiano di Tecnologia
